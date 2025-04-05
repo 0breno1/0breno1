@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Olá, me chamo Breno Marques! 👋</h1>
 
-<!--
-**0breno1/0breno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - 3º semestre no <strong> Centro Universitario Senac Santo Amaro</strong><br>
+💻 Apaixonado por tecnologia e programação<br>
+🚀 Buscando crescer e aprimorar minhas habilidades e aprender mais
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Habilidades:
+- 🔹 HTML, CSS, Java, JavaScript
+- 🔹 Desenvolvimento Web
+
+---
+
+### 📌 Sobre Mim:
+- 📚 Sempre em busca de novos aprendizados
+- 🤝 Aberto a novos desafios
+- 📫 Como me encontrar: brenomarques200@gmail.com 
+
+---
+
+### ⚡ Curiosidades:
+- 🎮 Amo games e desenvolvimento de jogos
+- 🎵 Gosto de ouvir música enquanto programo
+- 🚀 Meu objetivo: Me tornar um desenvolvedor Web
+
+---
+
+<p align="center">
+💡 "A melhor maneira de prever o futuro é criá-lo." - Alan Kay
+</p>
