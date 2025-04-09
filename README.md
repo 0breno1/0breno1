@@ -22,7 +22,7 @@
 ---
 
 ### ⚡ Curiosidades:
-- 🎮 Amo games e desenvolvimento de jogos
+- 🎮 Amo games 
 - 🎵 Gosto de ouvir música enquanto programo
 - 🚀 Meu objetivo: Me tornar um desenvolvedor Web
 
