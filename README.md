@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Breno Marques! 👋</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - 3º semestre no <strong> Centro Universitario Senac Santo Amaro</strong><br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - 4º semestre no <strong> Centro Universitario Senac Santo Amaro</strong><br>
 💻 Apaixonado por tecnologia e programação<br>
 🚀 Buscando crescer e aprimorar minhas habilidades e aprender mais
 </p>
